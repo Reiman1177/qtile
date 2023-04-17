@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #fondo de pantalla
-feh --bg-fill /home/reiman/.config/qtile/wallpaper.jpg
+feh --bg-fill /home/$USER/.config/qtile/wallpaper.jpg
 picom &
 udiskie -t &
 
