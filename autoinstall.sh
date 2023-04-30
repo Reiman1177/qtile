@@ -12,7 +12,7 @@ apt install lightdm -y
 dpkg-reconfigure lightdm
 
 #installing some apps
-apt install picom feh dmenu konsole thunar rofi htop firefox-esr git -y
+apt install picom feh dmenu konsole thunar rofi htop firefox-esr git vlc gwenview vim -y
 
 #installing sound
 sudo apt-get install alsa-utils pulseaudio pavucontrol - -yy
